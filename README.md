@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kanadra
+- 👀 I’m interested in desktop development, game development and code optimization
+- 🌱 I’m currently learning premutations and their applications
+- 💞️ I’m looking to collaborate on smaller projects
+- 📫 Contact me at development@kanadra.com
